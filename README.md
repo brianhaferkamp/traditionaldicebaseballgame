@@ -19,6 +19,6 @@ To learn how to play the game, [download the game guide](https://github.com/bria
 Though not an official tutorial, here is a game play video to see how it plays and flows:
 https://youtu.be/orTJL0W84yg.
 
-Please note, this is only a four team demo to try the first prototype. It is not a completed game. When you print these cards it is best to use paper, not cardstock. The game is subject to change and this is not a production version. 
+Please note, this is only a four team demo to try the first prototype. It is not a game in production. When you print these cards it is best to use paper, not cardstock. The game is subject to change and this is not a production version. 
 
 If you have any questions, comments, or feedback please email Brian at onbasebaseball@gmail.com.
