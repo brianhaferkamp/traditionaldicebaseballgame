@@ -5,7 +5,8 @@ Click on the links below to download the game components.
 Setup
 
 3 d10 dice (different colors)
-[Player cards]()
+[Batter cards](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_baseball_batters.pdf)
+[Pitcher cards]()
 [Fielding cards]()
 [Outfield plays chart]()
 Scorecard (not included)
