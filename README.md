@@ -7,8 +7,8 @@ Setup
 3 d10 dice (different colors)\
 [Batter cards](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_baseball_batters.pdf)\
 [Pitcher cards](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_baseball_pitchers.pdf)\
-[Fielding cards]()\
-[Outfield plays chart]()\
+[Fielding cards](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_baseball_fielding.pdf)\
+[Outfield plays chart] () \
 Scorecard (not included)
 
 
