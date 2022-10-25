@@ -8,7 +8,8 @@ Setup
 [Batter cards](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_baseball_batters.pdf)\
 [Pitcher cards](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_baseball_pitchers.pdf)\
 [Fielding cards](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_baseball_fielding.pdf)\
-[Outfield plays chart] () \
+[Outfield plays chart](https://github.com/brianhaferkamp/traditionaldicebaseballgame/raw/main/quick_pitch_outfield_outs.pdf)\
 Scorecard (not included)
 
+To learn how to play the game, [download the game guide]
 
